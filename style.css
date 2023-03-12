@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.container{
+    background-color: rgb(36, 43, 56);
+    padding: 50px;
+    color: white;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.btn{
+    cursor: pointer;
+    color: brown;
+    padding: 5px;
+}
